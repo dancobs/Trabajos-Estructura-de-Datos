@@ -92,4 +92,5 @@ Está diseñado específicamente para el examen, permitiendo:
 
 ## Video Explicativo
 
-El video explicativo de esta implementación está disponible en [enlace al video].
+El video explicativo de esta implementación está disponible en:
+https://universidaddavincid-my.sharepoint.com/:v:/g/personal/202203060_estudiante_udv_edu_gt/EXF9KOuWUIREuqWAI8cZXDcBp_KydKcdvgOwPthqD0cdGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=c5ccVR
