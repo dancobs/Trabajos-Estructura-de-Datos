@@ -87,4 +87,4 @@ Cuando ejecutas el programa, verás lo siguiente:
 
 Puedes ver la explicación del código, las rotaciones y la demostración del programa funcionando en el siguiente enlace:
 
-[🔗 Ver video en YouTube](https://www.youtube.com/tu_enlace_aqui)
+[🔗 Ver video en YouTube](https://youtu.be/F0_Us9v_Nfk)
