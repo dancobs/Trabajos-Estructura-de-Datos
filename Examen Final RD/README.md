@@ -89,4 +89,4 @@ Puedes ver la explicación del código, las rotaciones y la demostración del pr
 
 [🔗 Ver video en YouTube](https://youtu.be/F0_Us9v_Nfk)
 
-Subir Calidad aol video para ver mejor
+Subir Calidad al video para ver mejor
